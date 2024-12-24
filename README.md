@@ -109,10 +109,11 @@ Figma
 ```
 
 ## OUTPUT:
-![alt text](<../Screenshot 2024-12-24 132313.png>)
-![alt text](<../Screenshot 2024-12-24 132335.png>)
-![alt text](<../Screenshot 2024-12-24 132346.png>)
-![alt text](<../Screenshot 2024-12-24 132354.png>)
+![alt text](<Screenshot 2024-12-24 132313.png>)
+![alt text](<Screenshot 2024-12-24 132335.png>)
+![alt text](<Screenshot 2024-12-24 132346.png>)
+![alt text](<Screenshot 2024-12-24 132354.png>)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
